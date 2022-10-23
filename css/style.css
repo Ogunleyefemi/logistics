@@ -8,15 +8,19 @@
     align-items: center;
     justify-content: space-between;
     padding: 2rem 9%;
-    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.2);
-    background: var(--White);
+    background-color: rgb(246, 246, 246);
 }
 .nav a {
-    font-size: 1.7rem;
-    color: burlywood;
+    font-size: 1.1rem;
+    color: black;
     margin-left: 2rem;
 }
 .nav a:hover {
     color: red;
     cursor: pointer;
+}
+.adjust{
+    margin-left: 11rem;
+    font-weight: 500;
+    padding: 17px;
 }
