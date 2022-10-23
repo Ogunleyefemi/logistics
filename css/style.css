@@ -13,6 +13,10 @@
 }
 .nav a {
     font-size: 1.7rem;
-    color: var(--Dark-Blue);
+    color: burlywood;
     margin-left: 2rem;
+}
+.nav a:hover {
+    color: red;
+    cursor: pointer;
 }
