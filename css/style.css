@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 999;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 9%;
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.2);
+    background: var(--White);
+}
+.nav a {
+    font-size: 1.7rem;
+    color: var(--Dark-Blue);
+    margin-left: 2rem;
+}
