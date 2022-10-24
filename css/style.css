@@ -29,14 +29,14 @@
     padding: 2px;
     align-items: center;
 }
-.btn button{
+.btn{
     background-color: red;
     border: 0px;
     color: white;
     font-weight: 500;
     font-family: inherit;
     font-size: 100%;
-    border-radius: 30px;
+    border-radius: 7px;
     align-items: center;
 }
 .sec1{
@@ -48,10 +48,11 @@
     border: 0px;
     background-color: red;
     color: white;
-    border-radius: 30px;
+    border-radius: 7px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: 700;
+  
 }
 .mission{
     padding: 155px;
