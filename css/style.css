@@ -1,5 +1,6 @@
 .header{
     display: flex;
+    position: fixed;
     top: 0;
     left: 0;
     right: 0;
@@ -7,7 +8,7 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 2rem 9%;
+    padding: 1rem 9%;
     background-color: rgb(246, 246, 246);
 }
 .nav a {
@@ -24,8 +25,9 @@
 }
 .adjust{
     margin-left: 9rem;
-    font-weight: 500;
-    padding: 17px;
+    font-weight: 700;
+    padding: 2px;
+    align-items: center;
 }
 .btn button{
     background-color: red;
@@ -35,7 +37,34 @@
     font-family: inherit;
     font-size: 100%;
     border-radius: 30px;
-    opacity: 1;
-    line-height: inherit;
+    align-items: center;
+}
+.sec1{
     display: flex;
+    margin: 0px;
+    background-color: rgb(246, 246, 246);
+}
+#secbtn{
+    border: 0px;
+    background-color: red;
+    color: white;
+    border-radius: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+}
+.mission{
+    padding: 155px;
+    padding-left: 15px;
+    padding-bottom: 180px;
+}
+.mission h1{
+    font-weight: 800;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+.mission p{
+    font-size: medium;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
 }
