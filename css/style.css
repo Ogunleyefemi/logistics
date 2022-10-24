@@ -15,12 +15,27 @@
     color: black;
     margin-left: 2rem;
 }
+.nav img{
+    margin: auto;
+}
 .nav a:hover {
     color: red;
     cursor: pointer;
 }
 .adjust{
-    margin-left: 11rem;
+    margin-left: 9rem;
     font-weight: 500;
     padding: 17px;
+}
+.btn button{
+    background-color: red;
+    border: 0px;
+    color: white;
+    font-weight: 500;
+    font-family: inherit;
+    font-size: 100%;
+    border-radius: 30px;
+    opacity: 1;
+    line-height: inherit;
+    display: flex;
 }
