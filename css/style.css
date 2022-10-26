@@ -80,9 +80,13 @@
 }
 .truck, .flight,.doc{
     float: left;
-    text-align: center;
-    padding: 10px;
-    margin-left: 110px;
     display: flex;
+    padding: 20px;
+}
+.all{
+    text-align: center;
+    margin-left: 200px;
+    padding: 10px;
+
 }
 
