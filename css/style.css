@@ -73,5 +73,9 @@
 }
 .choose{
     display: flex;
+    padding: 10px;
+}
+.us{
+    padding-left: 100px;
 }
 
