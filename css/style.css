@@ -1,5 +1,5 @@
 .header{
-    display: flex;
+    display: inline-flex;
     position: fixed;
     top: 0;
     left: 0;
@@ -18,9 +18,7 @@
     font-size: 1.1rem;
     color: black;
     margin-left: 2rem;
-}
-.nav img{
-    margin: auto;
+    text-decoration: none;
 }
 .nav a:hover {
     color: red;
@@ -41,11 +39,11 @@
     border: 0px;
     background-color: red;
     color: white;
+    opacity: 1;
     border-radius: 7px;
     padding-top: 10px;
     padding-bottom: 10px;
     font-weight: 700;
-  
 }
 .mission{
     padding: 155px;
@@ -65,4 +63,11 @@
 .sec1 img{
     padding-right: 70px;
     padding-bottom: 50px;
+}
+.services{
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
