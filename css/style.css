@@ -32,7 +32,7 @@
 }
 .sec1{
     display: flex;
-    margin: 0px;
+    margin-bottom: 0px;
     background-color: rgb(246, 246, 246);
 }
 #secbtn{
@@ -71,3 +71,7 @@
     padding-top: 20px;
     padding-bottom: 20px;
 }
+.choose{
+    display: flex;
+}
+
