@@ -78,4 +78,11 @@
 .us{
     padding-left: 100px;
 }
+.truck, .flight,.doc{
+    float: left;
+    text-align: center;
+    padding: 10px;
+    margin-left: 110px;
+    display: flex;
+}
 
