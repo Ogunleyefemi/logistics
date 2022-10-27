@@ -85,5 +85,15 @@
     padding: 10px;
     cursor: pointer;
 }
+.about{
+    padding: 15px;
+    margin: 20px;
+    display: flex;
+   
+}
+.form{
+    float: left;
+    padding: 35px;
+}
 
 
