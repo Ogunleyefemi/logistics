@@ -95,5 +95,8 @@
     float: left;
     padding: 35px;
 }
+footer a{
+    text-decoration: none;
+}
 
 
