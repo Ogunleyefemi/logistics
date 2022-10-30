@@ -98,11 +98,24 @@
 footer a{
     text-decoration: none;
 }
+.footer{
+    background-color:rgb(246, 246, 246);
+    text-align: center;
+    padding: 70px;
+    width: auto;
+    line-height: normal;
+}
 footer{
     background-color:rgb(246, 246, 246);
-    margin: 15px;
-    padding: 15px;
-    width: auto;
 }
+.fixed{
+    display: inline-flex;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 45px;
+}
+
+
 
 
